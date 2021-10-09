@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: About me
 ---
-
 I am an spend more time 
 
 323 Hal
