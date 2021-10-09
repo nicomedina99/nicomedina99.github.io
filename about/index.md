@@ -11,8 +11,5 @@ Department of
 University
 College Park, MD
 
-Github Twitter
 
-
-Read about
-  how this site is generated and hosted
+Read about how to make website like this.
