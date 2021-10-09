@@ -3,19 +3,15 @@ layout: page
 title: About me
 ---
 
-* * * * *
-I am an spend more time [collecting wild
-mushrooms] in boats.
+I am an spend more time 
 
-* * * * *
-323 Hall\
-[Department of ]\
-[ State University][]\
-College Park, MD\
+323 Hal
+Department of 
+University
+College Park, MD
 
-[Github][] | [Twitter][]
+Github Twitter
 
-* * * * *
 
 Read about
   how this site is generated and hosted
