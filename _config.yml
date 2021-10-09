@@ -1,10 +1,9 @@
-title: "Personal website"
-author: "Nicolas Medina"
-  name: "GitHub User"
-  email: 
-description: "My personal website"
+title: Personal website
+author: Nicolas Medina
+  name: GitHub User
+  email: your-email@domain.com
+description: My personal website
 
-show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
