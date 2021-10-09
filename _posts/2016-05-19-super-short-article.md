@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In defense of _Calceolaria_"
+title: "In defense of *Calceolaria*"
 categories: botany
 ---
 
