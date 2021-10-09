@@ -1,8 +1,8 @@
-title: Personal website 
-author: Nicolas Medina
-  name: GitHub User
+title: "Personal website"
+author: "Nicolas Medina"
+  name: "GitHub User"
   email: 
-description: My personal website
+description: "My personal website"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
