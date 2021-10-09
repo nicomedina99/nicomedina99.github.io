@@ -4,6 +4,8 @@ author:
   email: your-email@domain.com
 description:
 
+google_analytics: "G-SFX8T2E7XW"
+
 minima:
   date_format: "%b %-d, %Y"
 
