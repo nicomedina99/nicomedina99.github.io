@@ -1,19 +1,16 @@
 title: Personal website
 author: Nicolas Medina
-  name: GitHub User
+  name: Nicolas Medina
   email: your-email@domain.com
-description: My personal website
+description:
 
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
   social_links:
-    twitter: rrrrrrrr
-    github:  rrrrrrrr
+    twitter: botanico_las
+    github:  nicomedina99
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
