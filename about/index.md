@@ -15,7 +15,7 @@ mushrooms] in boats.
 <div style="text-align:center">
 
 323 Hall\
-[Department of Philosophy][philosophy] (4540)\
+[Department of ]\
 [ State University][]\
 College Park, MD\
 
@@ -24,7 +24,7 @@ College Park, MD\
 * * * * *
 
 Read about
-[the software I use][] or [how this site is generated and hosted][].
+  [how this site is generated and hosted][].
 
 </div>
 
