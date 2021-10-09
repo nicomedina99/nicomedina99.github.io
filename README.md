@@ -1,2 +1,2 @@
-## My personal website
-nicomedina99.github.io
+## Personal website
+[nicomedina99.github.io](nicomedina99.github.io)
