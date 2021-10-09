@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nicolas Medina
+title: About me
 section: about
 ---
 
