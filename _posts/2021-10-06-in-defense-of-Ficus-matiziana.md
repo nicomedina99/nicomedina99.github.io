@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In defense of *Calceolaria*
+title: In defense of *Ficus matiziana*
 categories: botany
 ---
 
