@@ -6,6 +6,7 @@ title: Nicolas Medina
 
 I'm a Biologist and a Ph.D. in Botany. I currently work as a postdoctoral researcher at the [EspindoLab.](https://espindolab.weebly.com/) Learn more [about me](/about) and [my research](/research).
 
-!["Strangler fig (Ficus cyclophylla) from the Atlantic forest in Brazil"](20160802_133914.jpg){:width="600px"}
+["Strangler fig (Ficus cyclophylla) from the Atlantic forest in Brazil"](20160802_133914.jpg){:width="800px"}
+<img src="20160802_133914.jpg" class="img-responsive" alt="">
 
 <span style="color:gray">/bioinformatics /botany /evolutionary-models /genomics</span>
