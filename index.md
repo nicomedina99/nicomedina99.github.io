@@ -9,4 +9,3 @@ I'm a Biologist and a Ph.D. in Botany. I currently work as a postdoctoral resear
 	{% responsive_image path: 20160802_133914.jpg alt: "Strangler fig (Ficus cyclophylla) from the Atlantic forest in Brazil" %}
 
 <span style="color:gray">/bioinformatics /botany /evolutionary-models /genomics</span>
-
