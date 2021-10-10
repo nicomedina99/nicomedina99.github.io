@@ -4,7 +4,8 @@ title: In defense of Ficus matiziana
 categories: botany
 ---
 # In defense of *Ficus matiziana*
-This is about a name that has been incorrectly used in scientific literature and a reflection on scientific nomenclature. C.C. Berg in The Flora of Ecuador (2005) had already noticed that the types and descriptions of *Ficus matiziana* and *Ficus bulleneii* were very similar, and concluded that the two names referred to the same species. Following botanical conventions the correct name is the one that was published first, in this case that is *F. matiziana* published in 1946 three years before *F. bullenei*. 
+
+This is about a name that has been incorrectly used in scientific literature and a reflection on botanical nomenclature. C.C. Berg in The Flora of Ecuador (2005) had already noticed that the types and descriptions of *Ficus matiziana* and *Ficus bulleneii* were very similar, and concluded that the two names referred to the same species. Following botanical conventions the correct name is the one that was published first, in this case that is *F. matiziana* published in 1946 three years before *F. bullenei*. 
 
 This species was named in honor of Fansico Javier Matis (1774-1851) a Neogranadian (Colombian) botanist and painter. Matis’ contributions include beautiful plates with detailed anatomical illustrations in some of the first western studies of plants of the New World. Matis was also a mentor of intellectuals that built the original foundations of Colombian science.
 
