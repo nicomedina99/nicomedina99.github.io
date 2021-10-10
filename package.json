@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "deploy": "npm run build && gh-pages -d dist"
+    "deploy": "npm run build && gh-pages -d dist -b master"
   }
 }
