@@ -53,11 +53,3 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-responsive-image
- 
-responsive_image:
-  template: _includes/picture.html
-  sizes:
-    - width: 320
-    - width: 480
-    - width: 800
