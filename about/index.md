@@ -4,12 +4,8 @@ title: About me
 ---
 # About me
 
-I am an spend more time 
+Placeholder for description of interests and background.
 
-323 Hal
-Department of 
-University
 College Park, MD
 
-
-Read about how to make website like this.
+For a mild introduction to Github Pages and Jerkil visit: [jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/).
