@@ -17,7 +17,7 @@ The San Jose project (named after San Jose Island in Panama) was part of WWII's 
 
 Species names are a human construct so they should reflect the values that we want to transmit to the following generations. Colonialism, imperialism, and war are built upon the dehumanization of people; history should never be forgotten, but species names should only commemorate human’s bests, and the name _F. bullenei_ is a reminder of the horrors of war (as presumably Johnston did not intend).
 
-Berg (2005) Flora of Ecuador, Volume 85, Part 27C: Moraceae (Ficus)
-Satler et al (2019) Inferring processes of coevolutionary diversification in a community of Panamanian strangler figs and associated pollinating wasps. Evolution 73
-Satler et al (2020) Genome-wide sequence data show no evidence of admixture and introgression among pollinator wasps associated with a community of Panamanian strangler figs. biorxiv.org
+- Berg (2005) Flora of Ecuador, Volume 85, Part 27C: Moraceae (Ficus)
+- Satler et al (2019) Inferring processes of coevolutionary diversification in a community of Panamanian strangler figs and associated pollinating wasps. Evolution 73
+- Satler et al (2020) Genome-wide sequence data show no evidence of admixture and introgression among pollinator wasps associated with a community of Panamanian strangler figs. biorxiv.org
 
