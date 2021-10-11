@@ -4,4 +4,4 @@ title: Research
 ---
 # Research
 
-Placeholder for a description of my research.
+[a description of my research.]
