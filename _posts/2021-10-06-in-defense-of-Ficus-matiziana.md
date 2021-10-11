@@ -20,4 +20,7 @@ Species names are a human construct so they should reflect the values that we wa
 - Berg (2005) Flora of Ecuador, Volume 85, Part 27C: Moraceae (Ficus)
 - Satler et al (2019) Inferring processes of coevolutionary diversification in a community of Panamanian strangler figs and associated pollinating wasps. Evolution 73
 - Satler et al (2020) Genome-wide sequence data show no evidence of admixture and introgression among pollinator wasps associated with a community of Panamanian strangler figs. biorxiv.org
+- Howard (1961) Ivan Murray Johnston, 1898-1960. Journal of the Arnold Arboretum 42
+- Correl (1961) Ivan Murray Johnston (1898-1960). Taxon 10 
+
 
