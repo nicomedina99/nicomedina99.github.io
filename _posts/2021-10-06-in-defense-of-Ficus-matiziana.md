@@ -15,6 +15,6 @@ However, my main frustration comes from contextualizing the name *F. bullenei*. 
 
 The San Jose project (named after San Jose Island in Panama) was part of WWII's secret chemical testing programs, there is extensive literature detailing the horrors perpetrated on this island even against their own American soldiers (link1 link2 link3...). One atrocious experiment intended to test the effects of mustard gas on the skin of men using soldiers of color as "Guinea pigs". According to Howard (1961) and Correl (1961), during WWII Johnston was called upon as a civilian to contribute with botanical knowledge in studies of <<means of defoliating tropical forests by the use of chemicals>>, but Johnston probably didn’t know the deeps of the project he praised. 
   
-Species names are a human construct so they should reflect the values that we want to transmit to the following generations. Colonialism, imperialism, and war are built upon dehumanization of people; history should never be forgotten, but species names should only commemorate human’s bests, and the name *F. bullenei* is a reminder of the horrors of war (as presumably Johnston did not intend).
+Species names are a human construct so they should reflect the values that we want to transmit to the following generations. Colonialism, imperialism, and war are built upon the dehumanization of people; history should never be forgotten, but species names should only commemorate human’s bests, and the name *F. bullenei* is a reminder of the horrors of war (as presumably Johnston did not intend).
   
 REFS
