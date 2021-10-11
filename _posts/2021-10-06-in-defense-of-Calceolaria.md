@@ -5,6 +5,6 @@ categories: botany
 ---
 # In defense of *Calceolaria*
 
-Most plants look horrible when dead and Calceolaria is no exception. This is an ode to those herbarium specimens that try their best to store biological knowledge but look a little rough.
+Most plants look horrible when dead and Calceolaria is no exception. This is an ode to those herbarium specimens that do their best storing biological knowledge but look a little rough.
 __working on it__
 
